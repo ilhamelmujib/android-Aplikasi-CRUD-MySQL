@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ilhamelmujib/Documents/AndroidStudioProjects/API/CRUDMYSQL/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2349bc54f1b093ced705e363ef103f16c80f80fc">
+        <dex dex="/home/ilhamelmujib/Documents/AndroidStudioProjects/API/CRUDMYSQL/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8e99d1edd21b95c57e09a790d8a9a7175428acb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ilhamelmujib/Documents/AndroidStudioProjects/API/CRUDMYSQL/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/ilhamelmujib/Documents/AndroidStudioProjects/API/CRUDMYSQL/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9e62b00b9d85ad66310673e1de7434edaeafed7f/classes.dex" />
+    </item>
+
+</items>
