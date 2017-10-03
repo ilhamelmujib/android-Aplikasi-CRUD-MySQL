@@ -1,1 +1,7 @@
 Aplikasi CRUD dengan MySQL
+
+1. Export database `db_android.sql `
+2. Pindahkan folder `Pegawai` ke dalam folder `htdocs`
+3. Hubungkan wifi laptop dan device Anda kepada Hotspot yang sama
+4. Ubah IP Address pada `konfigurasi.java` menjadi IP laptop Anda.
+5. Berdoa dan Berusaha
